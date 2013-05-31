@@ -281,10 +281,10 @@
 
    <div id="l1" class="slide"><div>
     <section style="text-align:center;">
-      <header><br><br>
+      <header><br><br><br>
         <h1><b>Level 1 Commit Access</b>
 		
-		</h1><br><br><ul>
+		</h1><br><ul>
 		<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=804087">Bug Requesting Access</a></li>
 		<br><li><a href="https://tbpl.mozilla.org/">Tinder Box Push Log</a></li></ul>
 		 </header>
