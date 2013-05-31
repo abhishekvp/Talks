@@ -281,10 +281,10 @@
 
    <div id="l1" class="slide"><div>
     <section style="text-align:center;">
-      <header><br><br><br>
+      <header><br><br>
         <h1><b>Level 1 Commit Access</b>
 		
-		</h1><br><ul>
+		</h1><br><br><ul>
 		<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=804087">Bug Requesting Access</a></li>
 		<br><li><a href="https://tbpl.mozilla.org/">Tinder Box Push Log</a></li></ul>
 		 </header>
@@ -300,10 +300,10 @@
   <div id="thanks" class="slide"><div>
     <section>
       <header>
-        <h2>Thanks</h2>
+        <h2><b>Thanks And...</b></h2>
       </header>
         <figure class="frame middle swing">
-        <img src="pictures/mozillaoverview/redpanda.jpg" 
+        <img src="pictures/fixingBugsForMozilla/remember.jpg" width="350" height="350"
              alt="Red panda (Firefox)">
         </figure>
       <ul class="oneline demourl">
